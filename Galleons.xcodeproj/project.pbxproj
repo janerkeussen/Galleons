@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		739FDBE728F6C6C600CA7E43 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739FDBE628F6C6C600CA7E43 /* AppDelegate.swift */; };
-		739FDBE928F6C6C600CA7E43 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739FDBE828F6C6C600CA7E43 /* SceneDelegate.swift */; };
 		739FDBEB28F6C6C600CA7E43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739FDBEA28F6C6C600CA7E43 /* ViewController.swift */; };
 		739FDBEE28F6C6C600CA7E43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739FDBEC28F6C6C600CA7E43 /* Main.storyboard */; };
 		739FDBF128F6C6C600CA7E43 /* Galleons.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 739FDBEF28F6C6C600CA7E43 /* Galleons.xcdatamodeld */; };
@@ -39,7 +38,6 @@
 /* Begin PBXFileReference section */
 		739FDBE328F6C6C600CA7E43 /* Galleons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Galleons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		739FDBE628F6C6C600CA7E43 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		739FDBE828F6C6C600CA7E43 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		739FDBEA28F6C6C600CA7E43 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		739FDBED28F6C6C600CA7E43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		739FDBF028F6C6C600CA7E43 /* Galleons.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Galleons.xcdatamodel; sourceTree = "<group>"; };
@@ -102,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				739FDBE628F6C6C600CA7E43 /* AppDelegate.swift */,
-				739FDBE828F6C6C600CA7E43 /* SceneDelegate.swift */,
 				739FDBEA28F6C6C600CA7E43 /* ViewController.swift */,
 				739FDBEC28F6C6C600CA7E43 /* Main.storyboard */,
 				739FDBF228F6C6C900CA7E43 /* Assets.xcassets */,
@@ -264,7 +261,6 @@
 				739FDBEB28F6C6C600CA7E43 /* ViewController.swift in Sources */,
 				739FDBE728F6C6C600CA7E43 /* AppDelegate.swift in Sources */,
 				739FDBF128F6C6C600CA7E43 /* Galleons.xcdatamodeld in Sources */,
-				739FDBE928F6C6C600CA7E43 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

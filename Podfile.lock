@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (4.2.0)
+  - Swinject (2.8.2)
+
+DEPENDENCIES:
+  - SnapKit
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Swinject: b4a11b31992e8668308dc594ba1cb9b3164a37ab
+
+PODFILE CHECKSUM: c3880afd85721948a6eefcf41e890dcf02dc052e
+
+COCOAPODS: 1.11.3

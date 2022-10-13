@@ -1,2 +1,14 @@
 # Cocoapods
 Pods/
+
+## Build generated
+builds/
+build/
+DerivedData
+.DS_Store
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
